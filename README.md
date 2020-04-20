@@ -7,7 +7,7 @@ https://www.hackerrank.com/challenges/fractal-trees-all/problem
 
 My solution is NOT optimum,I will further optimize it in the future but in the mean time, these are the available releases:
 
-[fractalTreeV1.0](https://github.com/Somayyah/fractal_tree_in_bash/releases/tag/V1.0)
+ + [fractalTreeV1.0](https://github.com/Somayyah/fractal_tree_in_bash/releases/tag/V1.0)
 
 ### A note
 My solution differs from the one I submitted at Hackerrank, Thats because I keep getting the error :couldn't parse your code:.
